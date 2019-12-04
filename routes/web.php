@@ -26,3 +26,4 @@ Route::get('/bb/b2', function () {
     return view('bb.b2');
 });
 
+
