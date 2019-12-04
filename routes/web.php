@@ -23,4 +23,7 @@ Route::get('/aa/a1', function () {
     return view('aa.a1');
 });
 
+Route::get('/aa/a2', function () {
+    return view('aa.a2');
+});
 
