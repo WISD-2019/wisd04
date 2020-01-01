@@ -60,5 +60,12 @@ Route::get('/ff/f1', function () {
 Route::get('/ff/f2', function () {
     return view('ff.f2');
 });
+Route::get('/ff/f2', function () {
+    return view('ff.f2');
+});
+Route::get('/ii/i1', function () {
+    return view('ii.i1');
+});
+
 
 
